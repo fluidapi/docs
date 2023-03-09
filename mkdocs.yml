@@ -1,17 +1,18 @@
-site_name: Fluid - Docs
+site_name: Fluid Docs
 site_url: https://docs.fluidapi.io/
 
 nav:
   - index.md
   - Conectores: connectors/index.md
+  - Releases: releases.md
   - Sobre: about.md
 
 theme:
   # name: readthedocs
   name: material
   locale: pt_BR
-  palette:
-
+  
+  pallete:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
