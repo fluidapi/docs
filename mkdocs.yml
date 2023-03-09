@@ -7,5 +7,6 @@ nav:
     - Sobre: about.md
 
 theme:
-    name: readthedocs
+    # name: readthedocs
+    name: material
     locale: pt_BR
