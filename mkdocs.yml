@@ -1,1 +1,11 @@
-site_name: Fluid
+site_name: Fluid - Docs
+site_url: https://docs.fluidapi.io/
+
+nav:
+    - index.md
+    - Conectores: connectors/index.md
+    - Sobre: about.md
+
+theme:
+    name: readthedocs
+    locale: pt_BR
