@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Plataforma](README.md)
-* [Conectores](connectors/README.md)
-  * [Conectores](connectors/index/README.md)
+* [Plataforma](../)
+* [Conectores](connectors/)
+  * [Conectores](connectors/index/)
     * [Espera](connectors/index/wait.md)
 * [Release Notes](releases.md)
 * [Sobre](about.md)
